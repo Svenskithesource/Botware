@@ -1,0 +1,14 @@
+{ 
+    "item_wood_rod": "Wood rod -- |price|$",
+    "price_wood_rod": 750,
+    "sale_wood_rod": 0,
+    "text_wood_rod": "Wood rods are trash but you can get some snails with it",
+    "item_iron_rod": "Iron rod -- |price|$",
+    "price_iron_rod": 1450,
+    "sale_iron_rod": 0,
+    "text_iron_rod": "Iron rods are good for sharks or big fishes",
+    "item_gold_rod": "Gold rod -- |price|$",
+    "price_gold_rod": 2250,
+    "sale_gold_rod": 0,
+    "text_gold_rod": "Gold rods are very good for flexing and gold fishes"
+}

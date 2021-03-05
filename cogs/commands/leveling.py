@@ -25,10 +25,6 @@ class Levels(commands.Cog):
         except:
             pass
 
-    @commands.command()
-    async def rank(self, ctx, member:discord.Member=None):
-        pass
-
 
 def setup(bot):
     bot.add_cog(Levels(bot))
